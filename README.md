@@ -5,9 +5,8 @@ I'm Noman from Karachi, Pakistan. I have a passion for changing the world throug
 ---
 
 ## 🔗 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Facebook](https://www.facebook.com/profile.php?id=100077276426037)  
+[![LinkedIn](https://www.linkedin.com/in/noman-ishfaq-5750b4238/)
 
 ---
 
@@ -54,20 +53,8 @@ I'm Noman from Karachi, Pakistan. I have a passion for changing the world throug
 ---
 
 ## 📫 How to Reach Me:
-- Email: [noman@example.com](mailto:noman@example.com)
-- LinkedIn: [Noman's Profile](https://linkedin.com/in/noman)
+- LinkedIn: [Noman's Profile](https://www.linkedin.com/in/noman-ishfaq-5750b4238/)
 
----
 
-## 😄 Pronouns:
-- He/Him  
 
----
-
-## ⚡ Fun Fact:
-- I enjoy experimenting with AI and building tools that solve real-world problems.  
-
----
-
-Feel free to copy and paste this code into a Markdown editor (e.g., GitHub README, personal portfolio site) to see the interactive buttons and layout!
 
